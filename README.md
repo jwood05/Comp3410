@@ -3,12 +3,7 @@ Comp3410
 
 Repository for MIPS project
 
-MIPS Mansion was the final result of my group's project in COMP 3410 (Computer Organization and Assembler Language) at the University of Memphis in the Spring 2014 semester. The members of this group (dubbed "Team Puzzle" by our professor) were (in alphabetical order by last name):
-1. Nathan Brandeburg
-2. Joseph Ciskowski
-3. Drew Stabenow
-4. Daniel Wood
-5. Jonathan Wood (Hey, that's me! Woohoo!)
+MIPS Mansion was the final result of my group's project in COMP 3410 (Computer Organization and Assembler Language) at the University of Memphis in the Spring 2014 semester
 
 It is a Zork-like text-based maze/adventure game written entirely in the MIPS Assembler language. To complete this project, we had to learn/figure out how to perform what are usually a few basic tasks:
 
